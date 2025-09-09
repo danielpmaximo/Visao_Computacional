@@ -1,36 +1,36 @@
-# 🖼️ Visão Computacional – Lista de Exercícios
+# 🖼️ Computer Vision – Exercise List
 
-Este repositório contém os notebooks Jupyter desenvolvidos durante as atividades práticas da disciplina de **Visão Computacional**. Os exercícios abordam diversos tópicos fundamentais da área, com foco em técnicas de processamento de imagens e visão computacional.
-
----
-
-## 📂 Estrutura do Repositório
-
-* `Lista1_Visão_Computacional.ipynb` → Exercícios iniciais de visão computacional.
-* `Lista2_Visão_Computacional.ipynb` → Continuação dos exercícios, explorando técnicas intermediárias.
-* `Lista3_Visão_Computacional.ipynb` → Aplicações avançadas em processamento de imagens.
-* `Lista4_Visão_Computacional.ipynb` → Consolidação dos conceitos e aplicações mais avançadas.
+This repository contains the Jupyter notebooks developed during the practical activities of the **Computer Vision** course. The exercises cover various fundamental topics in the field, focusing on image processing and computer vision techniques.
 
 ---
 
-## 🧠 Conteúdos abordados
+## 📂 Repository Structure
 
-* Processamento de imagens digitais
-* Técnicas de segmentação e filtragem
-* Análise de características e padrões em imagens
-* Aplicações práticas de visão computacional
-
----
-
-## 👥 Autores
-
-Este repositório foi desenvolvido pelas duplas da disciplina:
-
-* **Daniel Pessoa Máximo**
-* **Matheus Vieira Faria**
+* `Lista1_Visão_Computacional.ipynb` → Introductory computer vision exercises.  
+* `Lista2_Visão_Computacional.ipynb` → Continuation of exercises, exploring intermediate techniques.  
+* `Lista3_Visão_Computacional.ipynb` → Advanced applications in image processing.  
+* `Lista4_Visão_Computacional.ipynb` → Consolidation of concepts and advanced applications.
 
 ---
 
-## 🎯 Objetivo
+## 🧠 Topics Covered
 
-Os notebooks têm como objetivo reforçar o aprendizado prático da disciplina de **Visão Computacional**, permitindo a exploração de técnicas teóricas em exercícios aplicados.
+* Digital image processing  
+* Segmentation and filtering techniques  
+* Analysis of image features and patterns  
+* Practical applications of computer vision  
+
+---
+
+## 👥 Authors
+
+This repository was developed by the course teams:
+
+* **Daniel Pessoa Máximo**  
+* **Matheus Vieira Faria**  
+
+---
+
+## 🎯 Objective
+
+The notebooks aim to reinforce the practical learning of the **Computer Vision** course, allowing the exploration of theoretical techniques through applied exercises.
